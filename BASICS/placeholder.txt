@@ -1,0 +1,5 @@
+-- Basic SELECT practice
+
+SELECT * FROM customers;
+SELECT first_name, country FROM employees;
+
